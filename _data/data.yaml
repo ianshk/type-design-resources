@@ -679,6 +679,9 @@ categories:
         description: by Underware
       - name: Wakamai Fondue
         url: http://wakamaifondue.com/
+      - name: Ethnologue
+        url: https://www.ethnologue.com/
+        description: Reference database of the world’s languages, useful for researching language communities, alternate names, writing systems, and geographic distribution.
   - name: Standardized character sets
     items:
       - name: Adobe Latin Character Sets
