@@ -1008,6 +1008,9 @@ categories:
                 url: https://github.com/fonttools/fontbakery
               - name: Web interface
                 url: http://fontbakery.com/
+          - name: Font Analyzer
+            url: https://fontanalyzer.app/
+            description: A free online tool for checking fonts for technical errors and warnings, including character sets, language support, metrics, kerning, OpenType features, and family consistency.
           - name: Font engineering tools
             url: https://github.com/simoncozens/font-engineering
             description: A collection of font engineering utilities by Simon Cozens
